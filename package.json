@@ -10,8 +10,25 @@
   },
   "dependencies": {
     "@next/font": "13.1.1",
+    "@reduxjs/toolkit": "^1.9.1",
+    "antd": "^5.1.2",
+    "axios": "^1.2.2",
+    "firebase": "^9.15.0",
     "next": "13.1.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-image-magnify": "^2.7.4",
+    "react-magnifier": "^3.0.4",
+    "react-redux": "^8.0.5",
+    "react-responsive-carousel": "^3.2.23",
+    "swiper": "6.8",
+    "use-sound": "^4.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
   }
 }
